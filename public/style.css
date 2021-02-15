@@ -1,0 +1,27 @@
+body {
+	margin-left: 3%;
+	}
+	
+table{
+    border-style:solid;
+	border-width: thin;
+}
+
+th{
+    border-style:solid;
+    border-width: thin;
+	text-align: center
+}
+
+td{
+    border-style:solid;
+    border-width: thin;
+    text-align: center;
+}
+
+p {
+    height: 100px;  
+    width: 300px;
+    font: 16px Arial, Serif;
+    overflow: auto;
+}
