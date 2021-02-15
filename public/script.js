@@ -1,4 +1,4 @@
-// initiate the page, display existing completed exercises if the database is not empty
+// initiate the page, display existing categories if the database is not empty
 firstVisit();
 console.log('I`m here. First visit.')
 
